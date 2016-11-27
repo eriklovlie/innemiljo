@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-./tempsensor.py ${ESEL_THINGSPEAK_KEY}
+key=${ESEL_THINGSPEAK_KEY}
+sudo ./tempsensor.py ${key}
