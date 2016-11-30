@@ -26,4 +26,4 @@ while True:
         print out
         print err
         exit(1)
-    time.sleep(10)
+    time.sleep(60)
